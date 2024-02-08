@@ -255,6 +255,10 @@ td, th{
         width: auto;
     }
 
+    .productos li{
+        display: block;
+    }
+
     .lista-diferenciales, .imagen-diferenciales, productos li{
         width: 100%;
     }
