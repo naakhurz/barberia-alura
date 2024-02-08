@@ -260,7 +260,7 @@ td, th{
         width: auto;
     }
 
-    .lista-diferenciales, .imagen-diferenciales, productos li{
+    .lista-diferenciales, .imagen-diferenciales{
         width: 100%;
     }
 }
