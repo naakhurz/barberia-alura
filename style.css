@@ -257,6 +257,7 @@ td, th{
 
     .productos li{
         display: block;
+        widht: auto;
     }
 
     .lista-diferenciales, .imagen-diferenciales, productos li{
