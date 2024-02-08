@@ -251,15 +251,11 @@ td, th{
     nav{
         position: static;
     }
-    .caja, .principal, .mapa-contenido, .contenido-diferenciales, .video{
+    .caja, .principal, .mapa-contenido, .contenido-diferenciales, .video, .productos{
         width: auto;
     }
 
-    .productos li{
-        display: block;
-    }
-
-    .lista-diferenciales, .imagen-diferenciales{
+    .lista-diferenciales, .imagen-diferenciales, productos li{
         width: 100%;
     }
 }
